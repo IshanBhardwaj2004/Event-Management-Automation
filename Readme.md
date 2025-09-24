@@ -2,6 +2,10 @@
 
 A full-stack web application for managing events, bookings, and payments with admin dashboard capabilities.
 
+## Demo Video
+
+[![Event Management System Demo](https://github.com/IshanBhardwaj2004/Event-Management-Automation/blob/main/Screen%20Recording.mp4)](https://github.com/IshanBhardwaj2004/Event-Management-Automation/blob/main/Screen%20Recording.mp4)
+
 ## Table of Contents
 
 - [Motivation & Goals](#motivation--goals)
