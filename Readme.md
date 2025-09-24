@@ -5,7 +5,7 @@ A full-stack web application for managing events, bookings, and payments with ad
 
 ## Demo Video
 
-[![Event Management System Demo](https://img.icons8.com/clouds/344/play.png)](https://vimeo.com/1121700333)
+[Event Management System Demo](https://github.com/user-attachments/assets/ffef42bc-071b-4a52-aaf1-5bf34845928e)
 
 
 ## Table of Contents
